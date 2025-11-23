@@ -1,6 +1,9 @@
 # ADORE: Adaptive Derivative Order Randomized Explanation
 
-![Logo](https://raw.githubusercontent.com/LemenChao/adore/main/images/logo.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LemenChao/adore/main/images/logo.svg"
+       alt="Logo" width="300" />
+</p>
 
 **Author**: Lemen Chao, Anran Fang, Ming Lei, Renmin University of China  
 **Contact**: chaolemen@ruc.edu.cn
