@@ -1,0 +1,40 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Copyright (C) 2024 by the ADORE Research Team, led by Professor Borjigin Chaolemen,
+Renmin University of China
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                         Preamble
+
+The GNU General Public License is a free software license that guarantees end users the freedom to run, study, share, and modify the software. By contrast, the GNU Lesser General Public License (LGPL) is a more permissive free software license, intended for software libraries.
+
+This license is intended to guarantee your freedom to share and change free software—to make sure the software is free for all its users. This General Public License applies to most software that the Free Software Foundation has published.
+
+When we speak of free software, we are referring to freedom, not price. To protect your rights, we need to make restrictions that prohibit proprietary modifications of the software.
+
+                 TERMS AND CONDITIONS
+
+  0. Definitions.
+    "This License" refers to version 3 of the GNU General Public License.
+    "The Program" refers to any copyrightable work licensed under this License.
+    "You" refers to the licensee, or another person or entity exercising permissions granted by this License.
+
+  1. You may copy, modify, and distribute copies of the Program, in source or object code, as long as you do so under the terms of this License. You must include a copy of this License along with the Program.
+
+  2. If you modify the Program and distribute it, you must provide the source code or make it available. You must also mark modified files as modified, and include a prominent notice stating that you have modified the files.
+
+  3. You may charge a fee for copying, modifying, or distributing the Program, but you must not impose any further restrictions on the recipients' rights under this License.
+
+  4. The software is distributed "as is", without any warranty of any kind, either express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose. The authors or copyright holders shall not be liable for any damages arising from the use of the software.
+
+  5. If you distribute the Program or its modified version, you must ensure that all recipients are aware of the terms of this license, and the software must be licensed as a whole under the GPL-3.0. This means that any derivative work you create must also be licensed under the GPL-3.0.
+
+  6. If you use the Program to produce an executable, you must provide a way for the user to obtain the source code of the program. This can be either by providing the source code along with the executable, or by providing an offer to supply the source code on request.
+
+  7. This License does not grant you any rights to use the names, trademarks, or other identifiers of the authors, unless explicitly granted in writing.
+
+     For more information on the GPL-3.0, see:
+     https://www.gnu.org/licenses/gpl-3.0.html

@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Virtual envs
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / outputs
+logs/
+*.log
+results/
+
+# Wheel / models
+*.whl
